@@ -1,6 +1,6 @@
 :root {
   --primary-color: #264a4e;
-  --text-base: 1rem; /* 16px */
+  --text-base: 1rem;
 }
 
 *,
@@ -29,6 +29,7 @@ header {
 .content {
   margin: 0 auto;
   width: 100%;
+  height: 100%;
   max-width: 860px;
   padding: 16px 24px;
 }
